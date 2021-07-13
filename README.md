@@ -7,6 +7,6 @@
  # Table of countent
 *Neme of the read* | *Link of it* 
 ----- |-----|
-Growth Mindset  | [vist it](https://saif-k-saeed.github.io/reading-notes/groethMinset)
+Growth Mindset  | [vist it](https://saif-k-saeed.github.io/reading-notes/growthMindset)
 read01 | [ vist it ](https://saif-k-saeed.github.io/reading-notes/read1)
 read02 | [vist it ](https://saif-k-saeed.github.io/reading-notes/read02)
