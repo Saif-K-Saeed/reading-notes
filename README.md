@@ -11,3 +11,4 @@ Growth Mindset  | [vist it](https://saif-k-saeed.github.io/reading-notes/growthM
 read01 | [ vist it ](https://saif-k-saeed.github.io/reading-notes/read1)
 read02 | [vist it  ](https://saif-k-saeed.github.io/reading-notes/read02)
 read03 | [vist it  ](https://saif-k-saeed.github.io/reading-notes/read03)
+read04 | [vist it  ](https://saif-k-saeed.github.io/reading-notes/read04)
