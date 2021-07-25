@@ -12,5 +12,5 @@ read01(Markdown) | [ vist it ](https://saif-k-saeed.github.io/reading-notes/read
 read02(GUI) | [vist it  ](https://saif-k-saeed.github.io/reading-notes/read02)
 read03(HTML) | [vist it  ](https://saif-k-saeed.github.io/reading-notes/read03)
 read04(js) | [vist it  ](https://saif-k-saeed.github.io/reading-notes/read04)
-read05 | [vist it  ](https://saif-k-saeed.github.io/reading-notes/read05)
+read05(Operators and Loop) | [vist it  ](https://saif-k-saeed.github.io/reading-notes/read05)
 read06(css) | [vist it  ](https://saif-k-saeed.github.io/reading-notes/read06)
