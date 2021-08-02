@@ -20,3 +20,7 @@ read07(Functions) | [vist it  ](https://saif-k-saeed.github.io/reading-notes/rea
  *Neme of the read* | *Link of it* 
 |----- |-----|
 class01 | [vist it  ](https://saif-k-saeed.github.io/reading-notes/class01)
+class02 | [vist it  ](https://saif-k-saeed.github.io/reading-notes/class02)
+class03 | [vist it  ](https://saif-k-saeed.github.io/reading-notes/class03)
+class04 | [vist it  ](https://saif-k-saeed.github.io/reading-notes/class04)
+class05 | [vist it  ](https://saif-k-saeed.github.io/reading-notes/class05)
