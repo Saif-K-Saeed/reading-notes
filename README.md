@@ -6,7 +6,7 @@
  ## Table of content code-102
  
 *Neme of the read* | *Link of it* 
-|----- |-----|
+----- |-----|
 Growth Mindset  | [vist it](https://saif-k-saeed.github.io/reading-notes/growthMindset)
 read01(Markdown) | [ vist it ](https://saif-k-saeed.github.io/reading-notes/read1)
 read02(GUI) | [vist it  ](https://saif-k-saeed.github.io/reading-notes/read02)
@@ -18,7 +18,7 @@ read07(Functions) | [vist it  ](https://saif-k-saeed.github.io/reading-notes/rea
 
  ## Table of content code-201
  *Neme of the read* | *Link of it* 
-|----- |-----|
+----- |-----|
 class01 | [vist it  ](https://saif-k-saeed.github.io/reading-notes/class01)
 class02 | [vist it  ](https://saif-k-saeed.github.io/reading-notes/class02)
 class03 | [vist it  ](https://saif-k-saeed.github.io/reading-notes/class03)
