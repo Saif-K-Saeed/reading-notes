@@ -24,4 +24,3 @@ class01 | [vist it](https://saif-k-saeed.github.io/reading-notes/class01)
 class02 | [vist it](https://saif-k-saeed.github.io/reading-notes/class02)
 class03 | [vist it](https://saif-k-saeed.github.io/reading-notes/class03)
 class04 | [vist it](https://saif-k-saeed.github.io/reading-notes/class04)
-
