@@ -86,3 +86,5 @@ name  | Example
 Objects|`var` car = `{type:"Fiat", model:"500", color:"white"}`;
 Arrays|`var` cars = `["Saab", "Volvo", "BMW"]`;
 Functions |function myFunction(p1, p2) { `return p1 * p2;`   `of p1 and p2`}
+
+by ***Saif Saeed***  [GitHup](https://github.com/Saif-K-Saeed)
