@@ -67,12 +67,34 @@ Developers can use these events to execute JavaScript coded responses, which cau
 
 ### Mouse events
 
- |*Event* | *Performed* | *Event Handler* | *Description|
- |-----|---------|-------|-------|------|
-|click| onclick |When mouse click on an element.|
+ | *EventPerformed* | *Event Handler* |                                       *Description* |
+ | :--------------- | :-------------: | --------------------------------------------------: |
+ | click            |     onclick     |                     When mouse click on an element. |
+ | mouseover        |   onmouseover   | When the cursor of the mouse comes over the element |
+ | mouseout         |   onmouseout    |      When the cursor of the mouse leaves an element |
+ | mousedown        |   onmousedown   |   When the mouse button is pressed over the element |
+ | mouseup          |    onmouseup    |  When the mouse button is released over the element |
+ | mousemove        |   onmousemove   |                When the mouse movement takes place. |
 
-|mouseover |onmouseover| When the cursor of the mouse comes over |the element
-|mouseout| onmouseout| When the cursor of the mouse leaves an element|
-|mousedown| onmousedown| When the mouse button is pressed over the element|
-|mouseup |onmouseup| When the mouse button is released over the element|
-|mousemove| onmousemove| When the mouse movement takes place.|
+---
+
+### Keyboard events
+
+| Event Performed | Event Handler | Description                                                   |
+| --------------- | ------------- | ------------------------------------------------------------- |
+| focus           | onfocus       | When the user focuses on an element                           |
+| submit          | onsubmit      | When the user submits the form                                |
+| blur            | onblur        | When the focus is away from a form element                    |
+| change          | onchange      | When the user modifies or changes the value of a form element |
+
+---
+
+### Window/Document events
+
+| Event Performed | Event Handler | Description                                                      |
+| --------------- | ------------- | ---------------------------------------------------------------- |
+| load            | onload        | When the browser finishes the loading of the page                |
+| unload          | onunload      | When the visitor leaves the current webpage, the browser unloads | it |
+| resize          | onresize      | When the visitor resizes the window of the browser               |
+
+by ***Saif Saeed***  [GitHup](https://github.com/Saif-K-Saeed)
