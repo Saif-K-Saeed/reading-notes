@@ -10,7 +10,9 @@ It's easy to get started with Chart.js. All that's required is the script includ
 
 In this example, we create a bar chart for a single dataset and render that in our page. You can see all the ways to use Chart.js in the usage documentation.
 
-```<canvas id="myChart" width="400" height="400"></canvas>
+
+```
+<canvas id="myChart" width="400" height="400"></canvas>
 <script>
 var ctx = document.getElementById('myChart').getContext('2d');
 var myChart = new Chart(ctx, {
@@ -61,4 +63,5 @@ For support using Chart.js, please post questions with the chartjs tag on Stack 
 
 Chart.js is available under the MIT license .
 
-Documentation is copyright © 2014-2021 Chart.js contributors.
+
+by ***Saif Saeed***  [GitHup](https://github.com/Saif-K-Saeed)
