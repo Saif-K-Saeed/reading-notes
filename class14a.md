@@ -26,7 +26,7 @@ You can replace the value with one of the four options:
 
 type | Syntax
 -----|-------|
-Translate|`.transform_animation:hover {  transform: translate(100px, 100px);}`|
+Translate|`.transform_animation:hover {  transform: translate(100px, 100px);}`
 Scale |`.transform_animation:hover { transform: scale(2,2);}`
 Rotate| `.transform_animation:hover { transform: rotate(75deg);}`
 Rotate |`.transform_animation:hover {transform: rotate(75deg);}`
@@ -35,7 +35,7 @@ Skew |`.transform_animation:hover {transform: skew(30deg, 30deg);}`
 ## Properties
 
 Property| Description
---------|--------
+--------|--------|
 @keyframes| Specifies the animation code
 animation| A shorthand property for setting all the animation properties
 animation-delay |Specifies a delay for the start of an animation
@@ -46,5 +46,5 @@ animation-iteration-count |Specifies the number of times an animation should be 
 animation-name |Specifies the name of the @keyframes animation
 animation-play-state |Specifies whether the animation is running or paused
 animation-timing-function |Specifies the speed curve of the animation
-|
+
 by ***Saif Saeed***  [GitHup](https://github.com/Saif-K-Saeed)
