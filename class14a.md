@@ -24,7 +24,7 @@ The transform property in CSS animation makes transformations to the size (resca
 The **“value”** part defined in the above pointer determines what we want to do with the object.
 You can replace the value with one of the four options:
 
-type | Syntax 
+type | Syntax
 -----|-------|
 Translate|`.transform_animation:hover {  transform: translate(100px, 100px);}`|
 Scale |`.transform_animation:hover { transform: scale(2,2);}`
@@ -32,19 +32,19 @@ Rotate| `.transform_animation:hover { transform: rotate(75deg);}`
 Rotate |`.transform_animation:hover {transform: rotate(75deg);}`
 Skew |`.transform_animation:hover {transform: skew(30deg, 30deg);}`
 
-## Properties 
+## Properties
 
-Property|	Description|
---------|--------|
-@keyframes|	Specifies the animation code|
-animation|	A shorthand property for setting all the animation properties|
-animation-delay	|Specifies a delay for the start of an animation|
-animation-direction	|Specifies whether an animation should be played forwards, backwards or in alternate cycles|
-animation-duration|	Specifies how long time an animation should take to complete one cycle|
-animation-fill-mode|	Specifies a style for the element when the animation is not playing (before it starts, after it ends, or both)|
-animation-iteration-count	|Specifies the number of times an animation should be played|
-animation-name	|Specifies the name of the @keyframes animation|
-animation-play-state	|Specifies whether the animation is running or paused|
-animation-timing-function	|Specifies the speed curve of the animation|
+Property| Description
+--------|--------
+@keyframes| Specifies the animation code
+animation| A shorthand property for setting all the animation properties
+animation-delay |Specifies a delay for the start of an animation
+animation-direction |Specifies whether an animation should be played forwards, backwards or in alternate cycles
+animation-duration| Specifies how long time an animation should take to complete one cycle
+animation-fill-mode| Specifies a style for the element when the animation is not playing (before it starts, after it ends, or both)
+animation-iteration-count |Specifies the number of times an animation should be played
+animation-name |Specifies the name of the @keyframes animation
+animation-play-state |Specifies whether the animation is running or paused
+animation-timing-function |Specifies the speed curve of the animation
 |
 by ***Saif Saeed***  [GitHup](https://github.com/Saif-K-Saeed)
