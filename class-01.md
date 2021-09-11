@@ -65,8 +65,4 @@ Props are mainly used for passing data from the parent component to child compon
 
 ### What is the flow of props?
 
-Flow is a static type checker for your JavaScript code. It is developed at Facebook and is often used with React. It lets you annotate the variables, functions, and React components with a special type syntax, and catch mistakes early
-
-- Add Flow to your project as a dependency.
-- Ensure that Flow syntax is stripped from the compiled code.
-- Add type annotations and run Flow to check them.
+data with props are being passed in a uni-directional flow. (one way from parent to child).
