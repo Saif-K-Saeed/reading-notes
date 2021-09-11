@@ -40,7 +40,7 @@ class14b| [vist it](https://saif-k-saeed.github.io/reading-notes/class14b)
 
  *Neme of the read* | *Link of it*
 ---------- |------------|
-class-01 | [vist it]()
+class-01 | [vist it](https://saif-k-saeed.github.io/reading-notes/class-01)
 class-02 | [vist it]()
 class-03 | [vist it]()
 class-04 | [vist it]()
