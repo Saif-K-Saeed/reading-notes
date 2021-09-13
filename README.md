@@ -42,7 +42,7 @@ class14b| [vist it](https://saif-k-saeed.github.io/reading-notes/class14b)
 ---------- |------------|
 class-01 | [vist it](https://saif-k-saeed.github.io/reading-notes/class-01)
 class-02 | [vist it](https://saif-k-saeed.github.io/reading-notes/class-02)
-class-03 | [vist it]()
+class-03 | [vist it](https://saif-k-saeed.github.io/reading-notes/class-03)
 class-04 | [vist it]()
 class-05 | [vist it]()
 class-06 | [vist it]()
