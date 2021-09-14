@@ -63,3 +63,13 @@ Inputs in React can be one of two types: controlled or uncontrolled.
 An **uncontrolled** input is the simpler of the two. It’s the closest to a plain HTML input. React puts it on the page, and the browser keeps track of the rest. When you need to access the input’s value, React provides a way to do that. Uncontrolled inputs require less code, but make it harder to do certain things.
 
 With a **controlled** input, YOU explicitly control the value that the input displays. You have to write code to respond to keypresses, store the current value somewhere, and pass that value back to the input to be displayed. It’s a feedback loop with your code in the middle. It’s more manual work to wire these up, but they offer the most control.
+
+
+
+## How Ternary Operator Works in React?
+
+Before understanding the working of the ternary operator we need to understand why we need the ternary operators. You have seen conditional statements in the JavaScript where we execute either of the statement on the basis of the success or failure of the conditions, in the same we may face a situation where we wanted to display one html or any component on the conditional basis. To explain the working of it we can take some points.
+
+- We can put a conditional expression inside the curly braces.
+- The expression written inside the curly braces can be a combination of multiple expressions but they will always return a single boolean value.
+- If the expression of the condition written inside curly braces is true then we will display the output written in the fir
