@@ -46,7 +46,7 @@ Node.js runs single-threaded, non-blocking, asynchronously programming, which is
 
 ## 6 Reasons for Pair Programming
 
-### What are the 6 reasons for pair programming?
+### What are the 6 reasons for pair programming? 
 
   1. Greater efficiency
   2. Engaged collaboration
